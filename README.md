@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=partheee&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=partheee&hide_border=true" />
+</p>
 
-<!--
-**partheee/partheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+👋 I'm Parthiban. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've had the great fortune of contributing to the AI landscape by creating tools that everyone can use, regardless of their means or background. I hope that together, with these tools, we can unlock solutions to the world's most pressing challenges. Every YOLO model is a step closer to realizing the positive potential of AI.
+    
+Let's build a brighter future together! 🌍🚀
+
+<br>
+</div>
